@@ -1,0 +1,95 @@
+Initialize engine version: 4.6.0b21 (bee422ec5c5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0x116)
+    Vendor:   Intel
+    VRAM:     1068 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\User\Desktop\backup_windows\POLITECNICO\multimedia\proyectos-Unity\Mike-Juego\Built\RunMikeRun_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Desktop\backup_windows\POLITECNICO\multimedia\proyectos-Unity\Mike-Juego\Built\RunMikeRun_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\backup_windows\POLITECNICO\multimedia\proyectos-Unity\Mike-Juego\Built\RunMikeRun_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\User\Desktop\backup_windows\POLITECNICO\multimedia\proyectos-Unity\Mike-Juego\Built\RunMikeRun_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\backup_windows\POLITECNICO\multimedia\proyectos-Unity\Mike-Juego\Built\RunMikeRun_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\User\Desktop\backup_windows\POLITECNICO\multimedia\proyectos-Unity\Mike-Juego\Built\RunMikeRun_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\backup_windows\POLITECNICO\multimedia\proyectos-Unity\Mike-Juego\Built\RunMikeRun_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\User\Desktop\backup_windows\POLITECNICO\multimedia\proyectos-Unity\Mike-Juego\Built\RunMikeRun_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\backup_windows\POLITECNICO\multimedia\proyectos-Unity\Mike-Juego\Built\RunMikeRun_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\User\Desktop\backup_windows\POLITECNICO\multimedia\proyectos-Unity\Mike-Juego\Built\RunMikeRun_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.121 seconds
+desktop: 1366x768 60Hz; virtual: 3046x1050 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\User\Desktop\backup_windows\POLITECNICO\multimedia\proyectos-Unity\Mike-Juego\Built\RunMikeRun_Data\Managed\System.Core.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Reflective/VertexLit' - Pass '' shader state not supported
+WARNING: Shader Unsupported: 'Hidden/Nature/Tree Creator Leaves Optimized' - Pass '' shader state not supported
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+The tree RockMesh(collider) must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 80)
+
+UnloadTime: 0.333978 ms
+Initialize engine version: 4.6.0b21 (bee422ec5c5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0x116)
+    Vendor:   Intel
+    VRAM:     1068 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\User\Desktop\backup_windows\POLITECNICO\multimedia\proyectos-Unity\Mike-Juego\Built\RunMikeRun_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Desktop\backup_windows\POLITECNICO\multimedia\proyectos-Unity\Mike-Juego\Built\RunMikeRun_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\backup_windows\POLITECNICO\multimedia\proyectos-Unity\Mike-Juego\Built\RunMikeRun_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\User\Desktop\backup_windows\POLITECNICO\multimedia\proyectos-Unity\Mike-Juego\Built\RunMikeRun_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\backup_windows\POLITECNICO\multimedia\proyectos-Unity\Mike-Juego\Built\RunMikeRun_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\User\Desktop\backup_windows\POLITECNICO\multimedia\proyectos-Unity\Mike-Juego\Built\RunMikeRun_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\backup_windows\POLITECNICO\multimedia\proyectos-Unity\Mike-Juego\Built\RunMikeRun_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\User\Desktop\backup_windows\POLITECNICO\multimedia\proyectos-Unity\Mike-Juego\Built\RunMikeRun_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Desktop\backup_windows\POLITECNICO\multimedia\proyectos-Unity\Mike-Juego\Built\RunMikeRun_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\User\Desktop\backup_windows\POLITECNICO\multimedia\proyectos-Unity\Mike-Juego\Built\RunMikeRun_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.078 seconds
+desktop: 1366x768 60Hz; virtual: 3046x1050 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\User\Desktop\backup_windows\POLITECNICO\multimedia\proyectos-Unity\Mike-Juego\Built\RunMikeRun_Data\Managed\System.Core.dll (this message is harmless)
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 745.
+Total: 4.458031 ms (FindLiveObjects: 0.070558 ms CreateObjectMapping: 0.018388 ms MarkObjects: 0.682495 ms  DeleteObjects: 0.650423 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+WARNING: Shader Unsupported: 'Reflective/VertexLit' - Pass '' shader state not supported
+WARNING: Shader Unsupported: 'Hidden/Nature/Tree Creator Leaves Optimized' - Pass '' shader state not supported
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+The tree RockMesh(collider) must use the Nature/Soft Occlusion shader. Otherwise billboarding/lighting will not work correctly.
+ 
+(Filename:  Line: 80)
+
+UnloadTime: 0.494766 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 745.
+Total: 1.669890 ms (FindLiveObjects: 0.079966 ms CreateObjectMapping: 0.015822 ms MarkObjects: 0.207400 ms  DeleteObjects: 0.401971 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+Server Joined
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Couldn't send RPC function 'InformaTiempo'
+
+ 
+(Filename:  Line: 2463)
+
+SERVER: Cliente desconectado. Borro RPCs y objetos del cliente
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+CLIENTE: Conexion con el server perdida
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+CLIENTE: Conexion con el server perdida
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
